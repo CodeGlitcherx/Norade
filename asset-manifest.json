@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Norade/static/css/main.a35ab946.css",
+    "main.js": "/Norade/static/js/main.28075355.js",
+    "static/media/random5.jpg": "/Norade/static/media/random5.32e707934e0294945a83.jpg",
+    "static/media/random2.jpg": "/Norade/static/media/random2.b40a2dc8932a2b02491f.jpg",
+    "static/media/random10.jpg": "/Norade/static/media/random10.cd3fc023251feb848dd4.jpg",
+    "static/media/random9.jpg": "/Norade/static/media/random9.bd8cbb84b4c6353d7649.jpg",
+    "static/media/random8.jpg": "/Norade/static/media/random8.36468dc00029873cd612.jpg",
+    "static/media/random7.jpg": "/Norade/static/media/random7.2193d171bff453ebf4a7.jpg",
+    "static/media/random3.jpg": "/Norade/static/media/random3.d677410f8c6f2c177809.jpg",
+    "static/media/random1.jpg": "/Norade/static/media/random1.71c3f4f5f4d2b3234ddc.jpg",
+    "index.html": "/Norade/index.html",
+    "main.a35ab946.css.map": "/Norade/static/css/main.a35ab946.css.map",
+    "main.28075355.js.map": "/Norade/static/js/main.28075355.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a35ab946.css",
+    "static/js/main.28075355.js"
+  ]
+}
